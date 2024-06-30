@@ -2,7 +2,7 @@
 
 
 * We will leverage PEFT library from Hugging Face ecosystem, as well as QLoRA for more memory efficient finetuning.
-* Using the Model
+* Using [Llama-2-7B-bf16-sharded](https://huggingface.co/TinyPixel/Llama-2-7B-bf16-sharded) Model
 * And [Articles_Constitution_3300_Instruction_Set](https://huggingface.co/datasets/nisaar/Articles_Constitution_3300_Instruction_Set) Dataset
 
 ## Setup
